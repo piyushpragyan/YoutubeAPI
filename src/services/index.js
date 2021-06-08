@@ -1,0 +1,1 @@
+module.exports.youtubeService = require('./youtube.service');

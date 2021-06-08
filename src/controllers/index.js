@@ -1,0 +1,1 @@
+module.exports.youtubeController = require('./youtube.controller');
